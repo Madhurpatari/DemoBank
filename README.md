@@ -1,20 +1,20 @@
 
 # Demo Banking Application
-1. This is a demo banking application built using Spring Boot, Maven, and MySQL. The application provides various functionalities to simulate banking operations. It includes the following features:
+This demo banking application was built using Spring Boot, Maven, and MySQL. The application provides various functionalities to simulate banking operations. It includes the following features:
 
-2. Create Account: Allows users to create a new bank account with their details, including name, email, and initial balance.
+1. Create Account: Allows users to create a new bank account with their details, including name, email, and initial balance.
 
-3. Credit Account: Enables users to deposit funds into their account by specifying the account number and the amount to be credited.
+2. Credit Account: Enables users to deposit funds into their accounts by specifying the account number and the amount to be credited.
 
-4. Debit Account: Allows users to withdraw funds from their account by specifying the account number and the amount to be debited.
+5. Debit Account: Allows users to withdraw funds from their account by specifying the account number and the amount to be debited.
 
-5. Name Enquiry: Allows users to inquire about the account holder's name by providing the account number.
+6. Name Enquiry: Allows users to inquire about the account holder's name by providing the account number.
 
-6. Balance Enquiry: Provides users with their current account balance by providing the account number.
+7. Balance Enquiry: Provides users with their current account balance by providing the account number.
 
-7. Transfer Amount: Allows users to transfer funds from their account to another account by specifying the source and destination account numbers and the amount to be transferred.
+8. Transfer Amount: Allows users to transfer funds from their account to another account by specifying the source and destination account numbers and the amount to be transferred.
 
-8. Email Alerts: The application sends email alerts to both the source and destination accounts during account creation and transfer transactions.
+9. Email Alerts: The application sends email alerts to both the source and destination accounts during account creation and transfer transactions.
 ## Prerequisites
 Before running the application, ensure that you have the following:
 
